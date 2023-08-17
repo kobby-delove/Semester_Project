@@ -5,6 +5,7 @@ INDEX NUMBER : UEB3222422
 
 COURSE / CLASS : BSC INFORMATION TECHNOLOGY C
 
+PROJECT : USSD SYSTEM 
 
                                     PROJECT DESCRIPTION
 This USSDsystem code header files for input/output operations (<iostream>) and exception handling (<stdexcept>).
